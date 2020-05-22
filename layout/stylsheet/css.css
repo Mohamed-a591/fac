@@ -1,0 +1,33 @@
+/*start main*/
+body{
+    background-color:#e9ebee;
+    font-weight: bold;
+    font-size: 12px;
+    
+}
+
+/*end main*/
+/*form style*/
+.login
+{
+    background-color: rgb(130, 160, 185,0.5);
+    border-radius: 15px;
+    height: auto;
+}
+
+
+.login .form-control
+{
+    background-color: rgb(235, 235, 235);
+}
+
+/*end form style*/
+.hover:hover {
+    background-color: #1177e4;
+}
+
+.shadow
+{
+    margin: 5px;
+    box-shadow: 0px 0px 72px -18px rgba(0, 0, 0, 0.6);
+}
